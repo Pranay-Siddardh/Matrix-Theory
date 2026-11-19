@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Question 1: Gram--Schmidt Orthogonalisation and QR Decomposition}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objective}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Gram--Schmidt Orthogonalisation}{1}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}QR Decomposition}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}QR Decomposition of a Square Matrix}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Comparison with NumPy QR Decomposition}{3}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}QR Decomposition of a Tall Matrix}{4}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Orthogonal Projection Matrix}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Orthogonality of the Residual}{5}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Solving a Linear System Using Back Substitution}{6}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Conclusion of Question 1}{7}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Source Code Location}{8}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Question 2: Linear Regression as a Least-Squares Problem}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Objective}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Part A: Generation of the Dataset}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Scatter Plot}{9}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Construction of the Design Matrix}{9}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Why Does No Exact Line Pass Through Every Point?}{10}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Part B: Solving Using the Normal Equations}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Calculated Regression Coefficients}{11}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Comparison with NumPy Least Squares}{12}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Fitted Regression Line}{12}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}Part C: Geometry of the Least-Squares Fit}{12}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Orthogonality of the Residuals}{13}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Sum of the Residuals}{14}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Projection Matrix}{14}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Idempotence of the Projection Matrix}{15}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Trace of the Projection Matrix}{15}{subsubsection.3.5.5}%
+\contentsline {subsubsection}{\numberline {3.5.6}Pythagorean Theorem}{16}{subsubsection.3.5.6}%
+\contentsline {subsubsection}{\numberline {3.5.7}Geometrical Interpretation of the Projection}{16}{subsubsection.3.5.7}%
+\contentsline {subsection}{\numberline {3.6}Part D: Solving Using QR Decomposition}{17}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}QR Solution}{18}{subsubsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.7}Conclusion of Question 2}{19}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Source Code Location}{19}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Overall Conclusion}{20}{section.4}%
+\contentsline {section}{\numberline {A}Additional Numerical Results}{21}{section.A}%
+\contentsline {subsection}{\numberline {A.1}Question 1: Linear System Solution}{21}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Question 2: Regression Results}{21}{subsection.A.2}%
