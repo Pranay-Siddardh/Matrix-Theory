@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1795068525.4712 "main.tex" "main.pdf" "main" 1795068526.58272 0
+["pdflatex"] 1795068897.6864 "main.tex" "main.pdf" "main" 1795068898.36496 0
   "../q2/Fit-Model.pdf" 1795067985.61146 14366 85610bf038d7e614f62862ff7041af28 ""
   "../q2/Points.pdf" 1795067983.97946 13354 7cce779f1c3bf5835e64d3852a1b0144 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -133,10 +133,10 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1784246400 43785 66587115382950aca692b5f6e3c2fb74 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1794200688 5572652 80c89e805a99c1cf2b169a830b820ca9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1794200276 3519839 c84a7c5357e81182fdee7fb565d42243 ""
-  "main.aux" 1795068526.48345 5900 e51172ac083e24d345ad51927462cc87 "pdflatex"
-  "main.out" 1795068526.48745 5645 ae4db8daa44f134ec7347208ed6033b7 "pdflatex"
-  "main.tex" 1795068524.12203 28770 b15a239bda4f782b9216d0f2ae787b38 ""
-  "main.toc" 1795068526.48745 3829 73d9ec4ebd82fd51ec67fc427cdec478 "pdflatex"
+  "main.aux" 1795068898.27943 5900 e51172ac083e24d345ad51927462cc87 "pdflatex"
+  "main.out" 1795068898.27943 5645 ae4db8daa44f134ec7347208ed6033b7 "pdflatex"
+  "main.tex" 1795068892.19751 28772 4ce9b07784d874a98bd6fc5b38f0e848 ""
+  "main.toc" 1795068898.27943 3829 73d9ec4ebd82fd51ec67fc427cdec478 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
